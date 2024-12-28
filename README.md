@@ -5,8 +5,11 @@ customers very well and grow their business and can make more profit in future b
 steps:-
 
 1.data overview to see important variables
+
 2.data cleaning,checking duplicates,null values,data types,etc.
+
 3.making pivot tables for deriving pivot charts.
+
 4.designed filters on channel,month,category.
 
 
