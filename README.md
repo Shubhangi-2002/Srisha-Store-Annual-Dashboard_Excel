@@ -13,7 +13,9 @@ steps:-
 
 
 
+
 following questions solved in dashboard:-
+
 1.Compare the sales and orders in single chart.
 
 2.which month got highest sales and orders?
