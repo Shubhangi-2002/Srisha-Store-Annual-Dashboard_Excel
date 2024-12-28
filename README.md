@@ -8,7 +8,9 @@ steps:-
 3.making pivot tables for deriving pivot charts.
 4.designed filters on channel,month,category.
 
+
 following questions solved in dashboard:-
+
 1.Compare the sales and orders in single chart.
 
 2.which month got highest sales and orders?
