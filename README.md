@@ -3,7 +3,8 @@ goal:-Srisha store wants to create an annual sales dashboard, so that store can 
 
 steps:-
 
-1.data overview to see important variables2.data cleaning,checking duplicates,null values,data types,etc.3.making pivot tables for deriving pivot charts.4.designed filters on channel,month,category.
+1.data overview to see important variables   2.data cleaning,checking duplicates,null values,data types,etc.      3.making pivot tables for deriving pivot charts.    4.designed filters on channel,month,category.
+
 
 
 
