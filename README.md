@@ -1,8 +1,9 @@
 # Srisha-Store-Annual-Dashboard_Excel
-goal:-Srisha store wants to create an annual sales dashboard, so that store can understand their customers very well and grow their business 
-and can make more profit in future by deriving insights from dashboard.
+goal:-Srisha store wants to create an annual sales dashboard, so that store can understand their 
+customers very well and grow their business and can make more profit in future by deriving insights from dashboard.
 
 steps:-
+
 1.data overview to see important variables
 2.data cleaning,checking duplicates,null values,data types,etc.
 3.making pivot tables for deriving pivot charts.
